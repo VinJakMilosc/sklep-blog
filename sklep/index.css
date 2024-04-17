@@ -1,0 +1,39 @@
+html.body {
+    margin: 0;
+}
+
+#logo {
+    height: 100px;
+    width: 100px;
+}
+
+#cart {
+    width: auto;
+}
+
+.flex-container {
+    display:flex ;
+}
+
+.flex-container-wrap {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.topnav {
+    background-color:  rgb(219, 197, 219);
+    justify-content:space-between ;
+    align-items: center;
+    padding: 0.1rem 2rem;
+}
+
+.card {
+    background-color: rgb(175, 207, 196);
+    width: 20rem;
+    height: 20rem;
+    margin: 2px;
+}
+
+.text-center {
+    text-align: center;
+}
